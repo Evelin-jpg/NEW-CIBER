@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tabla>
+ <registro>
+  <idConexion>1</idConexion>
+  <nombre>yael jasus</nombre>
+  <equipo>PC-Destroyer</equipo>
+  <FechaInicio>2023-05-29 22:14:33</FechaInicio>
+  <FechaCierre>2023-05-29 22:14:33</FechaCierre>
+ </registro>
+ <registro>
+  <idConexion>2</idConexion>
+  <nombre>evelin</nombre>
+  <equipo>PC-Destroyer</equipo>
+  <FechaInicio>2023-05-04 00:00:00</FechaInicio>
+  <FechaCierre>2023-06-02 00:00:00</FechaCierre>
+ </registro>
+</tabla>

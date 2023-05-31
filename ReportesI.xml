@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tabla>
+ <registro>
+  <idReporteDeIncidentes>1</idReporteDeIncidentes>
+  <nombre>yael jasus</nombre>
+  <FechaYhora>2023-05-30 01:46:15</FechaYhora>
+  <descripción>Derramo un refresco sobre el teclado</descripción>
+ </registro>
+ <registro>
+  <idReporteDeIncidentes>2</idReporteDeIncidentes>
+  <nombre>yael jasus</nombre>
+  <FechaYhora>2022-12-02 17:59:00</FechaYhora>
+  <descripción>Se convulsiono </descripción>
+ </registro>
+</tabla>

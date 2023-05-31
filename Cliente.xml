@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tabla>
+ <registro>
+  <idCliente>1</idCliente>
+  <nombre>yael jasus</nombre>
+  <apPaterno>reyes</apPaterno>
+  <apMaterno>martinez</apMaterno>
+  <direccion>santa barbara</direccion>
+  <telefono>8662389782</telefono>
+ </registro>
+ <registro>
+  <idCliente>2</idCliente>
+  <nombre>evelin</nombre>
+  <apPaterno>barrera</apPaterno>
+  <apMaterno>torres</apMaterno>
+  <direccion>@porsupollo</direccion>
+  <telefono>8661236574</telefono>
+ </registro>
+ <registro>
+  <idCliente>3</idCliente>
+  <nombre>marisol</nombre>
+  <apPaterno>ramos</apPaterno>
+  <apMaterno>reyes</apMaterno>
+  <direccion>@mamadisima</direccion>
+  <telefono>866-153-4267</telefono>
+ </registro>
+ <registro>
+  <idCliente>4</idCliente>
+  <nombre>Pancho</nombre>
+  <apPaterno>Lopez</apPaterno>
+  <apMaterno>Borrega</apMaterno>
+  <direccion>@PanchitoBorrega</direccion>
+  <telefono>866-475-4689</telefono>
+ </registro>
+</tabla>
